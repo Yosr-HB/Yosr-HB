@@ -9,7 +9,6 @@ I'm a **DevOps / Software Engineer** with a strong background in **infrastructur
 ## 🚀 About Me
 
 * 💼 Background in **IT, Software Engineering, Data Engineering, and DevOps**
-* ☁️ Passionate about **cloud-native architectures** and **infrastructure as code**
 * 🔁 Strong believer in **CI/CD**, **automation**, and **clean engineering practices**
 * 📚 Always learning and improving
 
@@ -45,14 +44,8 @@ I'm a **DevOps / Software Engineer** with a strong background in **infrastructur
 * Writing **idiomatic Go**, especially for CLI tools
 * Mastering **Docker & Kubernetes** internals
 * Improving **system design & reliability**
+* Exploring **cloud-native architectures** and **infrastructure as code**
 
----
-
-## 📂 What You'll Find Here
-
-* Training-Code examples
-* DevOps tooling and experiments
-* Learning projects and technical notes
 
 ---
 
